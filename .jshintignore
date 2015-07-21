@@ -1,0 +1,9 @@
+browser-ext/third_party/*
+mitro-core
+emailer
+**/*min.js
+**/*externs*
+**/*jquery-csv.js
+**/*URI.js
+**/*hogan-template.js
+browser-ext/login/new-ui-mockups/*

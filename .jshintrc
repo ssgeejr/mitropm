@@ -1,0 +1,22 @@
+{
+	"asi": false,
+	"eqnull": false,
+	"loopfunc": false,
+	"expr": false,
+	"funcscope": false,
+	"supernew": false,
+	"laxbreak": false,
+	"boss": false,
+	"laxcomma": false,
+	"multistr": true,
+	"validthis": false,
+	"sub": false,
+	"shadow": false,
+	"evil": true,
+	"globals": {
+		"self": false,
+		"importScripts": false
+		//"forge": false,
+		//"mitro": false
+	}
+}
